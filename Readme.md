@@ -1,12 +1,12 @@
 # Coding Assessment L-2 Code Submission
 
-## Product Tabs Project
+# Product Tabs Project
 
-# Overview:
+## Overview:
 
 The Product Tabs project is a web application designed to showcase and categorize products for men, women, and kids. Users can easily navigate through different product categories using tabs and view a curated selection of items in each category. The project emphasizes a responsive design, providing an optimal user experience on various screen sizes, from mobile devices to desktops.
 
-# Features:
+## Features:
 
 `Tab Navigation`: Users can select product categories (Men, Women, Kids) through interactive tabs, triggering the display of relevant products.
 `Responsive Design`: The project adapts to different screen sizes, ensuring a seamless and visually appealing experience on both mobile devices and larger screens.
@@ -40,24 +40,24 @@ The Product Tabs project is a web application designed to showcase and categoriz
 
 > Open the index.html file in a web browser to view the application.
 
-# Usage:
+## Usage:
 
 Open the application in a web browser.
 Click on the tabs (Men, Women, Kids) to switch between different product categories.
 View the showcased products for the selected category.
 Explore product details and easily switch between categories.
 
-# Development:
+## Development:
 
 The project uses HTML, CSS, and JavaScript for its implementation.
 Responsive design is achieved through media queries in the CSS file.
 Product data is dynamically fetched using the Fetch API from a JSON file.
 
-# Contributing:
+## Contributing:
 
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests. Follow the guidelines outlined in the contributing section of the README.
 
-# Example contribution workflow
+## Example contribution workflow
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature/new-feature`
