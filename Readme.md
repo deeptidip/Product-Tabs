@@ -19,7 +19,7 @@ The Product Tabs project is a web application designed to showcase and categoriz
 
     - If using Git, clone the repository using the following command:
       ```
-      git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
+      git clone https://github.com/deeptidip/Product-Tabs
       ```
     - Alternatively, download the code as a ZIP file and extract it.
 
